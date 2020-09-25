@@ -5,9 +5,10 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
+flake8 = "*"
 
 [packages]
-numpy = "*"
+torch = "*"
 
 [requires]
 python_version = "3.7"
