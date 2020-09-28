@@ -114,3 +114,5 @@ ENV/
 .mypy_cache/
 
 tictac.code-workspace
+
+.vscode/
